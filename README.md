@@ -1,6 +1,6 @@
 ﻿# expense-tracker
 
-This is a proposed solution to the [GitHub User Activity challenge](https://roadmap.sh/projects/expense-tracker) from [roadmap.sh](https://roadmap.sh/).
+This is a proposed solution to the [Expense Tracker challenge](https://roadmap.sh/projects/expense-tracker) from [roadmap.sh](https://roadmap.sh/).
 
 ## Features
 
